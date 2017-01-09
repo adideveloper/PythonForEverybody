@@ -1,0 +1,2 @@
+# PythonForEverybody
+Basic Python Exercises
